@@ -1,0 +1,14 @@
+.main_div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+    
+ }
+ .main_h1{
+    display: flex;
+    justify-content:center;
+    background-color: gray;
+    color: white;
+    margin-bottom: 2%;
+ }
+ 
